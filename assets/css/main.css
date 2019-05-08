@@ -834,7 +834,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #FF0077;
+	color: #96a7ff;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -1211,7 +1211,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	text-align: center;
 }
 #resume .resume-header h2 {
-	color: #FF0077;
+	color: #96a7ff;
 }
 
 #resume .resume-timeline {
